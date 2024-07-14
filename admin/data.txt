@@ -1,0 +1,2 @@
+{"shop_key":"3318ac34168f4401bed56f0c043fa3f6","secret_key":"b5b69390b556496db3ae1929e01ed74e"}
+{"shop_key":"3318ac34168f4401bed56f0c043fa3f6","secret_key":"b5b69390b556496db3ae1929e01ed74e"}
